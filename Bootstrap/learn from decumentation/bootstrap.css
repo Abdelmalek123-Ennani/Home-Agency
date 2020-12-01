@@ -1,0 +1,5 @@
+/* Change values to match the radius of your form control */
+.fix-rounded-right {
+    border-top-right-radius: .2rem !important;
+    border-bottom-right-radius: .2rem !important;
+  }
